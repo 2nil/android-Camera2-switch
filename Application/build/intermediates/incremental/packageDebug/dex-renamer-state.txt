@@ -1,0 +1,7 @@
+#Thu Aug 24 09:17:32 CEST 2017
+base.0=C\:\\Users\\dlalanne\\AndroidStudioProjects\\android-Camera2-switch\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1ec72be308a812a127b9b21b12b0ea1bf525f3f9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\dlalanne\\AndroidStudioProjects\\android-Camera2-switch\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6065d12239fe0022b922cb96af9bed84659bf0ed\\classes.dex
+base.1=C\:\\Users\\dlalanne\\AndroidStudioProjects\\android-Camera2-switch\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6065d12239fe0022b922cb96af9bed84659bf0ed
+file.0=C\:\\Users\\dlalanne\\AndroidStudioProjects\\android-Camera2-switch\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1ec72be308a812a127b9b21b12b0ea1bf525f3f9\\classes.dex
